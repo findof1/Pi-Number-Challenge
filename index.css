@@ -1,0 +1,53 @@
+body{
+  background-color: rgb(235, 235, 127);
+}
+
+.instructions {
+ margin-left: 6vw;
+ margin-top: 5vh;
+ font-size: 200%;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  margin-top: 10vh;
+  margin-left: 35%;
+  background-color: beige;
+  border: rgb(217, 217, 132) solid 5px;
+  width: 25vw;
+  height: 10vh;
+  align-content: center;
+  justify-content: center;
+  border-radius: 30px;
+}
+
+.label{
+  font-size: 400%;
+  margin-right: 20px;
+}
+
+.textBox {
+  border-radius: 50px;
+  height: 70%;
+  margin-top: 2%;
+  font-size: 300%;
+  width: 50%;
+  background-color: beige;
+}
+
+.valid{
+margin-left: 45vw;
+font-size: 200%;
+}
+
+.digits{
+  margin-left: 44%;
+font-size: 200%;
+}
+
+.winner{
+  margin-left: 36%;
+  font-size: 200%;
+}
